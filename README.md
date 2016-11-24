@@ -1,6 +1,6 @@
 # pass_edit
 
-Renames fields in [pass](https://www.zx2c4.com/password-store)-encrypted files.
+Renames fields in [pass](https://www.passwordstore.org/)-encrypted files.
 
 Requires Python 3.5+ and GPG installed.
 
@@ -18,7 +18,7 @@ Requires Python 3.5+ and GPG installed.
 
 Licensed under the MIT License, the text of which follows:
 
-> Copyright (c) 2016 Nicholas Narsing <soren121@sorenstudios.com>.
+> Copyright (c) 2016 Nicholas Narsing &lt;soren121@sorenstudios.com&gt;.
 >
 > Permission is hereby granted, free of charge, to any person obtaining a copy
 > of this software and associated documentation files (the "Software"), to deal
